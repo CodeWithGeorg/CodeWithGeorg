@@ -1,16 +1,78 @@
-## Hi there 👋
+<!-- Profile Header Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/F3Eblsh.png" alt="Banner" width="100%" />
+</p>
 
-<!--
-**CodeWithGeorg/CodeWithGeorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/GeorgeKiarie">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&width=500&lines=Hey+there!+I'm+George+👋;Full+Stack+Developer+💻;Passionate+about+Coding+and+Innovation+🚀;Welcome+to+my+GitHub+Profile!">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+💻 Full Stack Developer passionate about building scalable, interactive, and user-friendly web applications.  
+🌱 Currently improving my skills in React, Node.js, and cloud deployment.  
+🎯 Always exploring new technologies and contributing to open-source projects.  
+⚡ Fun fact: I love turning creative ideas into real digital solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,flask,django,tailwind,flutter,dart,graphql,typescript,git,github,gitlab,vscode,php,fastapi,laravel,vue,nuxtjs,firebase,aws,azure,heroku,netlify,vercel,figma,canva,sqlite,postgresql,numpy,pandas,adobe" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GeorgeKiarie&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeKiarie&theme=radical" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeorgeKiarie&bg_color=141321&color=00C2CB&line=ff6b81&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/GeorgeKiarie/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeKiarie&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/GeorgeKiarie/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgeKiarie&repo=project2&theme=radical" />
+  </a>
+</p>
+
+> 💡 Replace `project1` and `project2` with your actual repo names!
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/GeorgeKiarie"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" alt="footer" width="100%">
+</p>
+
+⭐️ **From [GeorgeKiarie](https://github.com/GeorgeKiarie)**
