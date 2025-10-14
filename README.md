@@ -1,8 +1,23 @@
 <!-- Profile Header Banner -->
 <!-- Profile Header Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/ycY3bYj.png" alt="Banner" width="100%" />
-</p>
+<div align="center" style="
+  background: radial-gradient(circle at center, #0d1117, #000000);
+  padding: 30px 10px;
+  border-radius: 20px;
+  box-shadow: 0 0 25px #00ffff;
+">
+  <h1 style="
+    color: #00ffff;
+    font-size: 36px;
+    text-shadow: 0 0 20px #00ffff, 0 0 40px #00ffff;
+  ">
+    💻 George Kiarie — Full Stack Developer 🚀
+  </h1>
+  <p style="color: #cccccc; font-size: 18px;">
+    Building futuristic web experiences with code and creativity.
+  </p>
+</div>
+
 
 
 <!-- Typing Animation -->
