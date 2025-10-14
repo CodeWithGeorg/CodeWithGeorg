@@ -11,7 +11,7 @@
     font-size: 36px;
     text-shadow: 0 0 20px #00ffff, 0 0 40px #00ffff;
   ">
-    💻 George Kiarie — Full Stack Developer 🚀
+     George Kiarie — Full Stack Developer 🚀
   </h1>
   <p style="color: #cccccc; font-size: 18px;">
     Building futuristic web experiences with code and creativity.
