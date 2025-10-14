@@ -1,0 +1,22 @@
+name: Refresh GitHub Stats Daily
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs every day at midnight UTC
+  workflow_dispatch:       # Allow manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Commit a refresh to trigger README rebuild
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          date > last-update.txt
+          git add last-update.txt
+          git commit -m "Auto-update README stats [skip ci]" || exit 0
+          git push
