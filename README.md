@@ -1,23 +1,15 @@
 <!-- Profile Header Banner -->
 <!-- Profile Header Banner -->
-<div align="center" style="
-  background: radial-gradient(circle at center, #0d1117, #000000);
-  padding: 30px 10px;
-  border-radius: 20px;
-  box-shadow: 0 0 25px #00ffff;
-">
-  <h1 style="
-    color: #00ffff;
-    font-size: 36px;
-    text-shadow: 0 0 20px #00ffff, 0 0 40px #00ffff;
-  ">
-     George Kiarie — Full Stack Developer 🚀
-  </h1>
-  <p style="color: #cccccc; font-size: 18px;">
-    Building futuristic web experiences with code and creativity.
-  </p>
-</div>
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeKiarie&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&icon_color=00FFFF" alt="George's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeKiarie&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="George's GitHub streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeKiarie&layout=compact&theme=radical&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&hide_border=true" alt="Top Languages" width="50%" />
+</p>
 
 
 <!-- Typing Animation -->
