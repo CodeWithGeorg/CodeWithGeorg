@@ -1,7 +1,9 @@
 <!-- Profile Header Banner -->
+<!-- Profile Header Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/F3Eblsh.png" alt="Banner" width="100%" />
+  <img src="https://i.imgur.com/ycY3bYj.png" alt="Banner" width="100%" />
 </p>
+
 
 <!-- Typing Animation -->
 <p align="center">
