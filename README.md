@@ -52,16 +52,12 @@
 
 <p align="center">
   <a href="https://github.com/CodeWithGeorg/Weather-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=project1&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=Weather-App&theme=radical" />
   </a>
   <a href="https://github.com/CodeWithGeorg/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=project2&theme=radical" />
   </a>
 </p>
-
-> 💡 Replace `project1` and `project2` with your actual repo names!
-
----
 
 ## 🌐 Connect With Me
 
