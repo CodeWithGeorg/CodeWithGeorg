@@ -3,12 +3,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeKiarie&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&icon_color=00FFFF" alt="George's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeKiarie&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="George's GitHub streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithGeorg&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&icon_color=00FFFF" alt="George's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithGeorg&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="George's GitHub streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeKiarie&layout=compact&theme=radical&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&hide_border=true" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithGeorg&layout=compact&theme=radical&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&hide_border=true" alt="Top Languages" width="50%" />
 </p>
 
 
