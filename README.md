@@ -51,7 +51,7 @@
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/CodeWithGeorg/project1">
+  <a href="https://github.com/CodeWithGeorg/Weather-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=project1&theme=radical" />
   </a>
   <a href="https://github.com/CodeWithGeorg/project2">
