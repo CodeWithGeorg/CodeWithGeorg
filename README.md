@@ -1,16 +1,15 @@
 <!-- Profile Header Banner -->
 <!-- Profile Header Banner -->
-## 📊 GitHub Analytics
 
+<!-- Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithGeorg&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&icon_color=00FFFF" alt="George's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithGeorg&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="George's GitHub streak" width="48%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+George+Kiarie;Full+Stack+Developer+🚀;Building+Futuristic+Web+Experiences" alt="Typing SVG" />
 </p>
 
+<!-- Optional Gradient Background -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithGeorg&layout=compact&theme=radical&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&hide_border=true" alt="Top Languages" width="50%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00FFFF&height=180&section=header&text=Hi%20👋,%20I'm%20George%20Kiarie%20|%20Full%20Stack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
 </p>
-
 
 <!-- Typing Animation -->
 <p align="center">
@@ -44,7 +43,19 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithGeorg&theme=radical" />
 </p>
 
+
 ---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithGeorg&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&icon_color=00FFFF" alt="George's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithGeorg&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="George's GitHub streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithGeorg&layout=compact&theme=radical&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9&hide_border=true" alt="Top Languages" width="50%" />
+</p>
 
 ## 📈 Activity Graph
 
