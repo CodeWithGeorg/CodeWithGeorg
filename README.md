@@ -12,14 +12,6 @@
 </p>
 
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/CodeWithGeorg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&width=500&lines=Hey+there!+I'm+George+👋;Full+Stack+Developer+💻;Passionate+about+Coding+and+Innovation+🚀;Welcome+to+my+GitHub+Profile!">
-  </a>
-</p>
-
----
 
 ## 🚀 About Me
 💻 Full Stack Developer passionate about building scalable, interactive, and user-friendly web applications.  
