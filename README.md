@@ -54,8 +54,8 @@
   <a href="https://github.com/CodeWithGeorg/Weather-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=Weather-App&theme=radical" />
   </a>
-  <a href="https://github.com/CodeWithGeorg/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=project2&theme=radical" />
+  <a href="https://github.com/CodeWithGeorg/AI-Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=AI-Chatbot&theme=radical" />
   </a>
 </p>
 
