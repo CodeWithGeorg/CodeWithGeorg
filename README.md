@@ -50,19 +50,25 @@
 
 ## 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/CodeWithGeorg/Weather-App">
+<div align="center">
+  <p>
+    <a href="https://github.com/CodeWithGeorg/Weather-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=Weather-App&theme=radical" />
   </a>
-  <a href="https://github.com/CodeWithGeorg/AI-Chatbot">
+  </p>
+  <p>
+    <a href="https://github.com/CodeWithGeorg/AI-Chatbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=AI-Chatbot&theme=radical" />
   </a>
-</p>
-<p align="center">
+  </p>
+  <p>
   <a href="https://github.com/CodeWithGeorg/Travel-Time1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=Travel-Time1&theme=radical" />
   </a>
 </p>
+ 
+</div>
+
   
 
 ## 🌐 Connect With Me
