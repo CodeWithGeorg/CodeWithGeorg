@@ -62,8 +62,8 @@
   </a>
   </p>
   <p>
-  <a href="https://github.com/CodeWithGeorg/Travel-Time1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=Travel-Time1&theme=radical" />
+  <a href="https://github.com/CodeWithGeorg/Travel-Time">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=Travel-Time&theme=radical" />
   </a>
 </p>
  
