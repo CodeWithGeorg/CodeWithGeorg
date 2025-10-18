@@ -58,7 +58,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=AI-Chatbot&theme=radical" />
   </a>
 </p>
-<p>
+<p align="center">
   <a href="https://github.com/CodeWithGeorg/Travel-Time1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=Travel-Time1&theme=radical" />
   </a>
