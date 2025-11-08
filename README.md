@@ -59,7 +59,7 @@
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<div align="center" display="flex" flex-direction="columns" columns=3>
   <p>
     <a href="https://github.com/CodeWithGeorg/Weather-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=Weather-App&theme=radical" />
@@ -73,6 +73,11 @@
   <p>
   <a href="https://github.com/CodeWithGeorg/Travel-Time">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=Travel-Time&theme=radical" />
+  </a>
+</p>
+ <p>
+  <a href="https://github.com/CodeWithGeorg/Travel-Time">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=Rock-paper-Scissors&theme=radical" />
   </a>
 </p>
  
