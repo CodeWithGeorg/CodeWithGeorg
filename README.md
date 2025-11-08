@@ -59,27 +59,29 @@
 
 ## 🌟 Featured Projects
 
-<div align="center" display="flex" flex-direction="columns" columns=3>
+<div align="center">
   <p>
     <a href="https://github.com/CodeWithGeorg/Weather-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=Weather-App&theme=radical" />
   </a>
-  </p>
-  <p>
     <a href="https://github.com/CodeWithGeorg/AI-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=AI-Chatbot&theme=radical" />
-  </a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=AI-Chatbot&theme=radical" />
+    </a>
   </p>
+ 
   <p>
   <a href="https://github.com/CodeWithGeorg/Travel-Time">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=Travel-Time&theme=radical" />
   </a>
-</p>
- <p>
-  <a href="https://github.com/CodeWithGeorg/Travel-Time">
+  <a href="https://github.com/CodeWithGeorg/Rock-paper-Scissors">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=Rock-paper-Scissors&theme=radical" />
   </a>
 </p>
+ <p>
+    <a href="https://github.com/CodeWithGeorg/Toogle-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWithGeorg&repo=Toogle-App&theme=radical" />
+  </a>
+  </p>
  
 </div>
 
