@@ -20,6 +20,7 @@
 ⚡ Fun fact: I love turning creative ideas into real digital solutions.
 
 ---
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge)](https://george-pi.vercel.app/)
 
 
 
