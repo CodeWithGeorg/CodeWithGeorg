@@ -12,7 +12,6 @@
 </p>
 
 
-
 ## 🚀 About Me
 💻 Full Stack Developer passionate about building scalable, interactive, and user-friendly web applications.  
 🌱 Currently improving my skills in React, Node.js, and cloud deployment.  
