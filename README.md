@@ -11,7 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+George+Kiarie;Full+Stack+Developer+🚀;Building+Futuristic+Web+Experiences+;Currently+Exploring+Backend+Developement" alt="Typing SVG" />
 </p>
 
-
 ## 🚀 About Me
 💻 Full Stack Developer passionate about building scalable, interactive, and user-friendly web applications.  
 🌱 Currently improving my skills in React, Node.js, and cloud deployment.  
